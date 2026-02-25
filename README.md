@@ -111,3 +111,8 @@ If you finish early or want an extra challenge, try one of these:
 - Stay curious. The unpredictability is intentional and part of the experience.
 
 When you finish, Playlist Chaos will feel more predictable, and you will have taken your first steps into AI-assisted debugging.
+
+
+Sophia Chang
+
+I think the main thing students needed to understand was how the core idea behind the topic actually connects to what they’re doing in code and what results they get. A lot of people struggle when they have to turn abstract concepts into implementation. AI was helpful for explaining concepts in simpler terms and giving example code to get started. But it could be misleading when it produced answers that looked correct but didn’t match the exact requirements or skipped important reasoning. Instead of giving the answer, I would guide a student by asking questions that make them explain their thinking, like what they expect the output shape to be or what assumption their model is making. That way they can figure out the mistake themselves while still getting support.
